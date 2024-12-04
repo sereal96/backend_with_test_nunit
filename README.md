@@ -4,6 +4,9 @@
 After downloading this project remember to restor de Data Base with the file:
 ## "db_isu_corp_task.sql"
 
+![003](https://github.com/user-attachments/assets/19368280-554b-4cc6-ab19-122c3b10f459)
+
+
 The connection string is using all default parameters.  Change it based in your local configuration. 
 
 You could tested it using "Swagger" or running "https://localhost:7282/api/TaskModel/GetAllTask".
